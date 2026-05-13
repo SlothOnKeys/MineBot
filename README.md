@@ -36,7 +36,7 @@ A production-ready AI-powered Minecraft bot using **Mineflayer** and free AI API
 
 ```bash
 # 1. Clone or download this project
-git clone <your-repo-url>
+git clone https://github.com/SlothOnKeys/MineBot/tree/main
 cd minecraft-ai-bot
 
 # 2. Install dependencies
